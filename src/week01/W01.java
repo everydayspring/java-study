@@ -2,7 +2,7 @@ package week01;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class w01 {
+public class W01 {
     public static void main(String[] args) {
         //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
         // to see how IntelliJ IDEA suggests fixing it.

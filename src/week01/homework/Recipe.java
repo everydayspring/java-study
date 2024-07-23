@@ -1,7 +1,7 @@
 package week01.homework;
 import java.util.Scanner;
 
-public class homework {
+public class Recipe {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
