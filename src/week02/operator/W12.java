@@ -1,4 +1,4 @@
-package week02.Operator;
+package week02.operator;
 
 import java.util.Objects;
 import java.util.Scanner;
