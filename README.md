@@ -13,12 +13,20 @@
 ### Week3
 - [OOP](https://github.com/everydayspring/java-study/tree/master/src/week03/)
 - [parameter](https://github.com/everydayspring/java-study/tree/master/src/week03/parameter)
-- [static](https://github.com/everydayspring/java-study/tree/master/src/week03/staticFolder)
+- [static](https://github.com/everydayspring/java-study/tree/master/src/week03/staticExample)
 - [class, instance](https://github.com/everydayspring/java-study/tree/master/src/week03/sample)
 - [constructor](https://github.com/everydayspring/java-study/tree/master/src/week03/constructor)
-- [this](https://github.com/everydayspring/java-study/tree/master/src/week03/thisFolder)
+- [this](https://github.com/everydayspring/java-study/tree/master/src/week03/thisExample)
 - [import, package](https://github.com/everydayspring/java-study/tree/master/src/week03/packageExample)
 - [extends](https://github.com/everydayspring/java-study/tree/master/src/week03/extendsExample)
+- [composite](https://github.com/everydayspring/java-study/tree/master/src/week03/hasExample)
+- [override](https://github.com/everydayspring/java-study/tree/master/src/week03/override)
+- [super](https://github.com/everydayspring/java-study/tree/master/src/week03/superExample)
+- [polymorphism](https://github.com/everydayspring/java-study/tree/master/src/week03/polymorphism)
+- [abstract](https://github.com/everydayspring/java-study/tree/master/src/week03/abs)
+- [interface](https://github.com/everydayspring/java-study/tree/master/src/week03/interfaceExample)
+- [homework](https://github.com/everydayspring/java-study/tree/master/src/week03/homework)
+
 
 ### Week4
 - []()

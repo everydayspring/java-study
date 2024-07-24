@@ -1,4 +1,4 @@
-package week03.staticFolder;
+package week03.staticExample;
 
 public class Main {
     public static void main(String[] args) {

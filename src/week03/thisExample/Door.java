@@ -1,4 +1,4 @@
-package week03.thisFolder;
+package week03.thisExample;
 
 public class Door {
     public Door () {
