@@ -29,7 +29,20 @@
 
 
 ### Week4
-- []()
+- [Exception](https://github.com/everydayspring/java-study/tree/master/src/week04/sample01)
+- [generic](https://github.com/everydayspring/java-study/tree/master/src/week04/gen)
+- [homework](https://github.com/everydayspring/java-study/tree/master/src/week04/homework)
 
 ### Week5
-- []()
+- [thread](https://github.com/everydayspring/java-study/tree/master/src/week05/thread)
+  - [single](https://github.com/everydayspring/java-study/tree/master/src/week05/thread/single)
+  - [multi](https://github.com/everydayspring/java-study/tree/master/src/week05/thread/multi)
+  - [demon](https://github.com/everydayspring/java-study/tree/master/src/week05/thread/demon)
+  - [priority](https://github.com/everydayspring/java-study/tree/master/src/week05/thread/priority)
+  - [group](https://github.com/everydayspring/java-study/tree/master/src/week05/thread/group)
+  - [sleep](https://github.com/everydayspring/java-study/tree/master/src/week05/thread/sleep)
+  - [interrupt](https://github.com/everydayspring/java-study/tree/master/src/week05/thread/interrupt)
+  - [join](https://github.com/everydayspring/java-study/tree/master/src/week05/thread/join)
+  - [yield](https://github.com/everydayspring/java-study/tree/master/src/week05/thread/yield)
+  - [synchronized](https://github.com/everydayspring/java-study/tree/master/src/week05/thread/synchronized)
+  - [condition](https://github.com/everydayspring/java-study/tree/master/src/week05/thread/condition)
