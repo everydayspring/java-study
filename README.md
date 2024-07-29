@@ -46,3 +46,4 @@
   - [yield](https://github.com/everydayspring/java-study/tree/master/src/week05/thread/yield)
   - [synchronized](https://github.com/everydayspring/java-study/tree/master/src/week05/thread/synchronized)
   - [condition](https://github.com/everydayspring/java-study/tree/master/src/week05/thread/condition)
+- [modern](https://github.com/everydayspring/java-study/tree/master/src/week05/modern)
